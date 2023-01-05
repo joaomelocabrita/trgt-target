@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one~
+
+title: [TRGT - Target, Training & Consulting]
+description: [Somos uma empresa prestadora de serviços focados em formação jurídica inglesa, TOLES, tradução generalista e especializada, tradução simultânea e interpretação, e consultadoria.]
